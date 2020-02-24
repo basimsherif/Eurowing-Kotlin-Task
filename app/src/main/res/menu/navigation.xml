@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_top"
+        android:icon="@drawable/ic_action_layers"
+        android:title="Top"/>
+
+    <item
+        android:id="@+id/navigation_hot"
+        android:icon="@drawable/ic_action_thumb_up"
+        android:title="Hot"/>
+
+</menu>

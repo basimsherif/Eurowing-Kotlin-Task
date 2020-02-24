@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/viral"
+        android:title="Viral"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_whatshot"/>
+
+    <item
+        android:id="@+id/list"
+        android:title="list" />
+
+    <item
+        android:id="@+id/grid"
+        android:title="grid" />
+
+    <item
+        android:id="@+id/staggered"
+        android:title="staggered" />
+
+</menu>
